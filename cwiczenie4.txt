@@ -1,0 +1,5 @@
+Git, rozproszony system kontroli wersji. Stworzył go Linus Torvalds jako narzędzie wspomagające rozwój jądra Linux. Git
+stanowi wolne oprogramowanie i został opublikowany na licencji GNU GPL w wersji 2
+
+Od początku lat 90. XX wieku CVS jest wykorzystywany jako narzędzie pracy grupowej w wielu projektach programistycznych,
+których współpraca opiera się na wykorzystaniu internetu – są to m.in. całe systemy operacyjne takie jak OpenBSD i NetBSD
