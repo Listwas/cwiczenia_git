@@ -1,2 +1,2 @@
-README – wersja 3: Master
-Podstawy używania Gita – praca na plikach
+README – wersja 3: cwiczenie8
+Dodane na gałęzi cwiczenie8
